@@ -6,9 +6,8 @@ namespace t1
     {
         static void Main(string[] args)
         {
-         
-         //numero: 178   
-         byte a = 1;
+                 //numero: 178   
+                 byte a = 1;
 		 byte b = 7;
 		 byte c = 8;
          
@@ -17,15 +16,13 @@ namespace t1
 
 		 Console.WriteLine("----");
 
-         //bca
+                 //bca
 		 Console.WriteLine("numero 2: " + b + c + a);
 
 	   	 Console.WriteLine("----");
  
 		 //bcbc
 	 	 Console.WriteLine("numero 3: " + b + c + b + c);
-        
-        
         }
     }
 }
